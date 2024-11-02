@@ -5,7 +5,7 @@ const AboutPage = () => {
     return (
         <div>
             <h1>О нас</h1>
-            <Link to="/home">Вернуться на главную страницу</Link>
+            <Link to="/">Вернуться на главную страницу</Link>
         </div>
     );
 };
